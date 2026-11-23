@@ -1,0 +1,4 @@
+case_id,case_name,source_org,source_url,primary_type,record_schema,known_sample_or_scope,data_status,limitations
+"05-01","Our World in Data世界人口密度地图","Our World in Data","https://ourworldindata.org/grapher/population-density","分级统计地图","country_code、country_name、year、population_density、unit、geometry、source","以国家为地理单元展示人口密度，并可切换年份。","已建立字段框架；原始数据需按来源补采","用于比较人口空间聚集程度，不能与人口总量混淆。"
+"05-02","IOM全球移民路线总览","International Organization for Migration","https://dtm.iom.int/global-overview-of-migration-routes-portal","迁移路线/空间网络图","route_id、origin、transit、destination、route_mode、period、movement_count、source、as_of_date","门户以地图组织主要迁移路线、起点、过境点和目的地。","已建立字段框架；原始数据需按来源补采","必须同步记录数据日期、路线覆盖范围与局限。"
+"05-03","NASA Earth Observatory遥感专题地图","NASA Earth Observatory","https://earthobservatory.nasa.gov/","遥感空间专题图","image_id、observation_date、sensor、target、latitude、longitude、geometry、source","Earth Observatory以卫星影像和专题地图呈现地球环境变化。","已建立字段框架；原始数据需按来源补采","单幅影像不能直接代表长期趋势；需配合多时相数据。"
