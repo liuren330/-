@@ -1,0 +1,4 @@
+case_id,case_name,source_org,source_url,primary_type,record_schema,known_sample_or_scope,data_status,limitations
+"各类-01","The Pudding：Women’s Pockets","The Pudding","https://pudding.cool/2018/08/pockets/","文字驱动滚动叙事","section_id、headline、annotation、image、scroll_position、evidence_source","以章节标题、滚动文字和视觉材料逐步展开主题。","已建立字段框架；原始数据需按来源补采","通过逐屏揭示信息，引导读者理解服装口袋设计与社会议题。"
+"各类-02","Figma信息图案例资源：My Life in Berkeley","Figma Resource Library","https://www.figma.com/resource-library/infographic-examples/","文字与数据混排个人信息图","section_id、text_label、metric、unit、time_period、visual_element、layout_position","资源页介绍个人生活主题的信息图混合多种文字与数据表达方式。","已建立字段框架；原始数据需按来源补采","以个人经历为叙事主线，组织多维信息。"
+"各类-03","Figma信息图案例资源：Conversational AI清单","Figma Resource Library","https://www.figma.com/resource-library/infographic-examples/","文字清单型信息图","item_id、topic、item_text、category、icon、sequence、source","资源页展示以条目、图标和短文本组织内容的清单式案例。","已建立字段框架；原始数据需按来源补采","将长说明拆分为可扫描的短条目。"
