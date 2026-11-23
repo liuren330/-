@@ -1,0 +1,4 @@
+case_id,case_name,source_org,source_url,primary_type,record_schema,known_sample_or_scope,data_status,limitations
+"01-01","史密森尼导航技术创新时间轴","Smithsonian Institution","https://timeandnavigation.si.edu/timeline2","技术史事件时间轴","年份、事件ID、事件名称、技术类别、人物/机构、说明","按年代组织罗盘、计时、天文观测和定位技术；示例节点需从原站逐项核录。","已建立字段框架；原始数据需按来源补采","页面提供时间线与历史对象；完整事件清单、年份及图片许可需逐条核对。"
+"01-02","NASA历史时间线","NASA","https://www.nasa.gov/specials/timeline/","机构历史编年图","日期、事件ID、计划/项目、任务类别、标题、说明、图像来源","可采集NASA成立、早期航天任务、阿波罗、航天飞机、空间站和深空探测等节点；逐项核实准确日期。","已建立字段框架；原始数据需按来源补采","历史节点以NASA原站为准；不能把概述性年份补写为精确日期。"
+"01-03","UMBC Seeing Science科学摄影时间线","UMBC Center for Art, Design and Visual Culture","https://cadvc.umbc.edu/multimedia-publication/seeing-science/timeline/","科学成像技术编年图","年份、事件ID、技术名称、人物/机构、科学领域、图像、来源","页面收录早期天文摄影、运动摄影、医学成像等历史节点；示例包含1880年代摄影实践与后期MRI成像。","已建立字段框架；原始数据需按来源补采","页面条目需逐项核录；不从缩略图推断未展示的技术参数。"
