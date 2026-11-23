@@ -1,0 +1,4 @@
+case_id,case_name,source_org,source_url,primary_type,record_schema,known_sample_or_scope,data_status,limitations
+"02-01","Google Charts组织结构图","Google for Developers","https://developers.google.com/chart/interactive/docs/gallery/orgchart","父子节点组织树","node_id、parent_node_id、tooltip、部门、岗位","官方示例用节点及父节点字段构成组织关系；节点可展开/折叠。","已建立字段框架；原始数据需按来源补采","以官方数据结构为依据；示例节点仅作结构样例，不代表真实企业组织。"
+"02-02","欧盟数字可视化指南：数值层级","European Union data.europa.eu","https://data.europa.eu/apps/data-visualisation-guide/visualising-hierarchies-with-numbers","Treemap、Sunburst、Voronoi Treemap","node_id、parent_id、名称、层级、数值、单位、汇总规则","指南以洲、国家、城市等嵌套层级说明数字层级图。","已建立字段框架；原始数据需按来源补采","指南为方法案例；具体人口数据应另从对应官方数据源下载。"
+"02-03","Google Charts树状图层级数据示例","Google for Developers","https://developers.google.com/chart/interactive/docs/gallery/treemap","矩形树图","node_id、parent_id、label、size_value、color_value","官方Treemap示例以父子层级和两个数值字段构成矩形树图输入。","已建立字段框架；原始数据需按来源补采","官方文档适合复现图形语法；示例值不可直接解释为现实统计结论。"
