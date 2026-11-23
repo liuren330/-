@@ -1,0 +1,4 @@
+case_id,case_name,source_org,source_url,primary_type,record_schema,known_sample_or_scope,data_status,limitations
+"各类-01","wordcloud官方频次词云示例","wordcloud project documentation","https://amueller.github.io/word_cloud/auto_examples/frequency.html","词频词云","token、frequency、source_text、language、stopword_flag、font_size、x、y、rotation","官方示例将文本转换为词频字典后生成词云。","已建立字段框架；原始数据需按来源补采","适合快速概览文本高频词，不适合精确比较。"
+"各类-02","wordcloud官方蒙版词云示例","wordcloud project documentation","https://amueller.github.io/word_cloud/auto_examples/masked.html","形状蒙版词云","token、frequency、mask_pixel、font_size、x、y、rotation","官方示例用蒙版图像约束词云外形。","已建立字段框架；原始数据需按来源补采","主题轮廓增强识别，但形状可能引入额外语义暗示。"
+"各类-03","wordcloud官方中文词云示例","wordcloud project documentation","https://amueller.github.io/word_cloud/auto_examples/wordcloud_cn.html","中文分词词云","token、frequency、segmentation_method、stopword、font_path、font_size、x、y","官方示例说明中文字体、停用词、用户词典和中文语料处理。","已建立字段框架；原始数据需按来源补采","需保留分词工具、版本、用户词典与字体信息以便复现。"
