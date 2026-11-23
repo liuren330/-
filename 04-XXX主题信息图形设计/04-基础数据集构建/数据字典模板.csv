@@ -1,0 +1,5 @@
+field_name,field_definition,data_type,unit_or_format,allowed_values,missing_value_rule,source_field,transformation_rule,notes
+record_id,记录唯一标识,string,,unique,不得为空,原始记录ID,无,每行唯一
+entity_name,对象名称,string,,自由文本,未知时留空,来源名称字段,去除首尾空格,一个单元格一个名称
+latitude,纬度,number,decimal degrees,-90到90,未知时留空,纬度字段,统一WGS84,与longitude分列
+longitude,经度,number,decimal degrees,-180到180,未知时留空,经度字段,统一WGS84,与latitude分列
