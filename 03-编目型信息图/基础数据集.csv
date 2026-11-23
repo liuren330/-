@@ -1,0 +1,4 @@
+case_id,case_name,source_org,source_url,primary_type,record_schema,known_sample_or_scope,data_status,limitations
+"03-01","RSC交互式元素周期表","Royal Society of Chemistry","https://periodic-table.rsc.org/","元素科学目录/分类矩阵","atomic_number、symbol、element_name、group、period、block、category、phase、atomic_mass","元素按原子序数、族、周期、区块和性质浏览。","已建立字段框架；原始数据需按来源补采","完整118项数据应从原站或其数据源按版本采集，不用少量样例冒充全量数据。"
+"03-02","RSC元素主题信息图系列","RSC Education / Compound Interest","https://edu.rsc.org/resources/elements-infographics/1679.article","主题系列图鉴","graphic_id、主题组、元素范围、指标、单位、作者、图片链接","系列涵盖元素族、元素趋势、发现历史等主题；逐张登记具体范围。","已建立字段框架；原始数据需按来源补采","记录每张图的作者、来源和许可；图片不在未获许可时复制。"
+"03-03","Smithsonian自然历史博物馆馆藏检索","Smithsonian National Museum of Natural History","https://collections.nmnh.si.edu/search/","馆藏编目目录","catalog_number、object_name、scientific_name、collection、country、locality、date_collected、collector","以馆藏记录和检索字段组织自然史标本。","已建立字段框架；原始数据需按来源补采","具体条目需逐条采集馆藏编号及元数据；遵循馆藏数据使用条款。"
