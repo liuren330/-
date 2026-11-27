@@ -1,0 +1,7 @@
+field,value,unit,source,status
+project_year,2010,year,BBC project archive,verified
+object_count,100,objects,BBC Radio 4 series description,verified
+chronological_start,2000000,years_before_present,Smithsonian catalog summary,approximate scope
+chronological_end,2010,CE,BBC project archive,project end year
+creator,Neil MacGregor,text,BBC and Smithsonian records,verified
+exploration_facets,location;theme;culture;size;colour;material,categories,BBC explorer archive,verified
