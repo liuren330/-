@@ -1,7 +1,12 @@
-field,value,unit,source,status
-project_year,2010,year,BBC project archive,verified
-object_count,100,objects,BBC Radio 4 series description,verified
-chronological_start,2000000,years_before_present,Smithsonian catalog summary,approximate scope
-chronological_end,2010,CE,BBC project archive,project end year
-creator,Neil MacGregor,text,BBC and Smithsonian records,verified
-exploration_facets,location;theme;culture;size;colour;material,categories,BBC explorer archive,verified
+record_id,field,value,unit,source,status
+P01,project_year,2010,year,BBC project archive,verified
+P02,object_count,100,objects,BBC Radio 4 series description,verified
+P03,chronological_start,2000000,years_before_present,Smithsonian catalog summary,approximate scope
+P04,chronological_end,2010,CE,BBC project archive,project end year
+P05,creator,Neil MacGregor,text,BBC and Smithsonian records,verified
+F01,exploration_facet,location,category,BBC explorer archive,verified
+F02,exploration_facet,theme,category,BBC explorer archive,verified
+F03,exploration_facet,culture,category,BBC explorer archive,verified
+F04,exploration_facet,size,category,BBC explorer archive,verified
+F05,exploration_facet,colour,category,BBC explorer archive,verified
+F06,exploration_facet,material,category,BBC explorer archive,verified
