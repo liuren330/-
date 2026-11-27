@@ -1,0 +1,4 @@
+metric,value,unit,source_location,transcription_status
+plastic_bottles_per_hour,54.9,million bottles,Storybench description of Reuters visual,verified as quoted comparison
+christ_the_redeemer_height,38,metres,Storybench image caption,verified as visual scale reference
+plastic_bottles_per_year,480,billion bottles,Storybench article introduction,context figure; not confirmed as exact Reuters graphic data

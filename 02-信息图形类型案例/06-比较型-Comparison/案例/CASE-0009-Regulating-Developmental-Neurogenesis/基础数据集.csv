@@ -1,0 +1,3 @@
+condition,ptprd_status,comparison_dimension,source_location,transcription_status
+C01,with PTPRD,pathway and neurogenesis outcome,author portfolio description,condition named; numeric values not supplied
+C02,without PTPRD,pathway and neurogenesis outcome,author portfolio description,condition named; numeric values not supplied

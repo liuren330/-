@@ -1,0 +1,8 @@
+field,value,unit,source_location,transcription_status
+start_year,1970,year,Guardian article title and description,verified
+end_year,2012,year,Guardian article description,verified
+creator,Henk van Ess,text,Guardian creator credit,verified
+publisher,The Guardian Datablog,text,Guardian page,verified
+phase_1,precision reporting,text,Guardian summary phrase,phase label only; no exact start/end assigned
+phase_2,computer assisted reporting,text,Guardian summary phrase,phase label only; no exact start/end assigned
+phase_3,data journalism,text,Guardian summary phrase,phase label only; no exact start/end assigned

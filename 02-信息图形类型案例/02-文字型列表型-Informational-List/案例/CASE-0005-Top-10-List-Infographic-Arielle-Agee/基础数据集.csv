@@ -1,0 +1,11 @@
+record_id,display_order,record_type,source_location,transcription_status
+L01,1,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L02,2,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L03,3,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L04,4,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L05,5,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L06,6,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L07,7,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L08,8,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L09,9,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed
+L10,10,ranked_list_slot,project title indicates Top 10,slot only; item text not independently transcribed

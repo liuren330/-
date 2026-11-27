@@ -1,0 +1,5 @@
+field,value,unit,source_location,transcription_status
+metric,mismanaged plastic waste per capita,text,OWID chart title,verified
+source_dataset,Meijer et al. (2021),text,Wikimedia Commons metadata,verified
+visualization_author,Our World in Data,text,Wikimedia Commons metadata,verified
+license,CC BY,text,Wikimedia Commons metadata,license noted; preserve attribution

@@ -1,0 +1,5 @@
+tea_style,process_stage,edge_type,source_location,transcription_status
+six_styles,processing steps,solid,Figure 1 caption,required-step relation defined by caption
+six_styles,processing steps,dotted,Figure 1 caption,optional-step relation defined by caption
+oolong_and_black,bruising after or during withering,solid,article body,described in text
+oolong_and_black,additional drying after bruising,solid,article body,described in text

@@ -1,0 +1,3 @@
+sequence_id,stage_scope,source_description,detail_status
+S01,preparation,procedure begins with preparation,endpoint scope verified; substeps unavailable
+S02,final report,procedure ends with final report,endpoint scope verified; intermediate steps not transcribed
