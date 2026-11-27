@@ -1,11 +1,11 @@
-# 17｜词云信息图（Word Cloud Infographics）
-
-本目录归档以词项、词频／权重或语义组织为主要视觉语言的词云信息图。
+# 词云信息图-Word-Cloud
 
 - [标签定义与分析方法](./00-标签说明.md)
-- [正式案例目录](./案例/README.md)
+- [本类案例目录](./案例/README.md)
 - [全库案例索引](../案例索引.md)
 
-## 当前案例状态
+## 当前正式替换案例
 
-已入库 **1** 件经过来源核验的研究案例：Context-Preserving, Dynamic Word Cloud Visualization（Cui 等，2010）。该案例以词云作为时间切片，基础类型主归属为编年型（T）。原图保留官方论文链接，未复制第三方论文图像。
+- [CASE-0003｜Context-Preserving, Dynamic Word Cloud](./案例/CASE-0003-Context-Preserving-Dynamic-Word-Cloud/README.md)
+
+本类案例档案包含作品来源、A–E五维分析、CSV数据或结构索引、数据字典和图像权利记录。原图未获公开再发布许可时仅保留官方来源链接。
