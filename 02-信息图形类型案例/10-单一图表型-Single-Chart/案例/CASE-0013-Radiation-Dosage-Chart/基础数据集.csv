@@ -1,0 +1,5 @@
+field,value,unit,status
+subject,radiation dosage,text,verified
+scale,exponential,text,verified
+creator,David McCandless,text,verified
+numeric_records,,dose values,not transcribed
