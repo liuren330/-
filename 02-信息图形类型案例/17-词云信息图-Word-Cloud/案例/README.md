@@ -4,7 +4,7 @@
 
 ## 已入库案例
 
-- [CASE-0001｜Context-Preserving, Dynamic Word Cloud Visualization](./CASE-0001-Context-Preserving-Dynamic-Word-Cloud/README.md)
+- [CASE-0003｜Context-Preserving, Dynamic Word Cloud Visualization](./CASE-0003-Context-Preserving-Dynamic-Word-Cloud/README.md)
   - 作者：Weiwei Cui 等
   - 来源：Microsoft Research / IEEE Computer Graphics and Applications（2010）
   - 主表现标签：词云信息图
